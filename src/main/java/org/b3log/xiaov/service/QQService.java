@@ -153,12 +153,12 @@ public class QQService {
     /**
      * XiaoV self intro. Built-in advertisement.
      */
-    private static final String XIAO_V_INTRO = "你好，我是小薇~ 关于我的更多资料请看帖 https://hacpai.com/article/1467011936362";
+    private static final String XIAO_V_INTRO = "";
 
     /**
      * XiaoV listener self intro.
      */
-    private static final String XIAO_V_LISTENER_INTRO = "你好，我是小薇的守护，关于我的更多资料请看帖 https://hacpai.com/article/1467011936362";
+    private static final String XIAO_V_LISTENER_INTRO = "";
 
     /**
      * No listener message.
